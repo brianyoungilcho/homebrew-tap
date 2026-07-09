@@ -1,6 +1,6 @@
 cask "squat-coach" do
-  version "0.1.1"
-  sha256 "205aadf4c8ed4e4ec6785a35278966c1b61764ce7a013a4a3d0cd8ecce8cbf5d"
+  version "0.1.2"
+  sha256 "43d77249030209c7ff1f9ee19d1b445e999e15f7601a5dd868b86d5e29711ba9"
 
   url "https://github.com/brianyoungilcho/squat-coach/releases/download/v#{version}/Squat-Coach-#{version}.zip"
   name "Squat Coach"
