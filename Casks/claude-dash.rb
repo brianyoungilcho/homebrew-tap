@@ -1,6 +1,6 @@
 cask "claude-dash" do
-  version "1.6.0"
-  sha256 "c551c0c13ba68bf576c48afa43f5791ab20c10a235518df41e82d8873104490a"
+  version "1.6.1"
+  sha256 "58126d9a321ae99ce42ad82e8c10bb06af6e168690686628a767638b2635be85"
 
   url "https://github.com/brianyoungilcho/claude-dash/releases/download/v#{version}/Claude-Dash-#{version}.zip"
   name "Claude Dash"
